@@ -1,6 +1,6 @@
 # Footprinting with Nmap 🚀
 
-![Nmap Scanning](https://giphy.com/gifs/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH)
+![Nmap Scanning](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V2Njh6cnIxZnNtajJjY2U1NWQ4cXV2Yjd6MDVoajFva21hZmkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif)
 
 ## 📌 Overview
 This project demonstrates various **footprinting techniques** using Nmap to gather information about a target system.
