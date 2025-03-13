@@ -1,6 +1,6 @@
 # Footprinting with Nmap 🚀
 
-![Nmap Scanning](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+![Nmap Scanning](./docs/screenshots/nmap_scan.gif)
 
 ## 📌 Overview
 This project demonstrates various **footprinting techniques** using Nmap to gather information about a target system.
@@ -30,6 +30,7 @@ footprinting-nmap/
 ├── docs/
 │   ├── project_explanation.md
 │   ├── screenshots/
+│   │   ├── nmap_scan.gif
 ├── LICENSE
 ```
 
