@@ -1,6 +1,6 @@
 # Footprinting with Nmap 🚀
 
-![Nmap Scanning](./docs/screenshots/nmap_scan.gif)
+![Nmap Scanning](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
 ## 📌 Overview
 This project demonstrates various **footprinting techniques** using Nmap to gather information about a target system.
@@ -37,7 +37,7 @@ footprinting-nmap/
 ## ⚡ Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/footprinting-nmap.git
+git clone https://github.com/sainikhilreddymondeddu/footprinting-nmap.git
 cd footprinting-nmap
 
 # Make scripts executable
